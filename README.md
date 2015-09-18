@@ -1,10 +1,13 @@
-Distrubute the following files.
+# SDL-boilerplate
 
-Put them in the same dir as the `.exe` file, or in your system `PATH`.
+> A boilerplate for working with [SDL (Simple DirectMedia Layer)](https://www.libsdl.org/)
 
-- `SDL.dll`
-- Uses `.ttf` file(s)?
-	- `libfreetype-6.dll`
-	- `SDL_ttf.dll`
-	- `zlib1.dll`
+![screenshot](https://github.com/ArtskydJ/SDL-boilerplate/blob/master/screenshot.PNG)
 
+# Notes
+
+I'm really not sure if this is compatible with SDL 1.2 or 2.0.
+
+# License
+
+[VOL](http://veryopenlicense.com)
